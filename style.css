@@ -1,0 +1,46 @@
+body{
+    background-image: url(restaurant\ 1.png);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 10%;
+}
+p{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+h3{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+    color: #FFFFFF;
+}
+.left-arrow{
+   margin-right: 95%;
+}
+.menu{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    width: 15%;
+    height: 2em;
+    margin-right: 1em;
+}
+.cart{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    width: 15%;
+    height: 2em;
+}

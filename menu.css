@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+}
+.sidebar{
+    box-sizing: border-box;
+    display: block;
+    background: #0C0B0B;
+    border-radius: 24px;
+    height: 98vh;
+    width: 8%;
+    margin-right: 3em;
+    position: fixed;
+    z-index: 1;
+}
+.sushi-food{
+    margin-left: 13%;
+}
+.sushi-logo{
+    padding-top: 3em;
+    margin-left: 2em;
+}
+.sidebar a{
+    display: block;
+    margin-top: 4em;
+    margin-left: 2em;
+}
+.cutlery-icon{
+    background: #F1D5BB;
+}
+.line1{
+    display: flex;
+}
+.line1 div{
+    margin-right: 4em;
+}
+.line1 div p{
+    text-align: center;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+.line2{
+    display: flex;
+}
+.line2 div{
+    margin-right: 4em;
+}
+.line2 div p{
+    text-align: center;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 2em;
+    width: 12%;
+    margin-left: 40%;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+}
+.footer{
+    padding-bottom: 2em;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    color: #000000;
+}
